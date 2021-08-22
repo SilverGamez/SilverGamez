@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SilverGamez
-- 👀 I’m interested in coding, subnautica
-- 🌱 I’m currently learning how to use mysql
+- 👀 I’m interested in coding, minecraft, helping small coders
+- 🌱 I’m currently learning how to use mysql, mongo
 - 💞️ I’m looking to collaborate on a big bot
 - 📫 How to reach me Discord: SilverGamez#6333
 
