@@ -2,9 +2,4 @@
 - 👀 I’m interested in coding, minecraft, helping small coders
 - 🌱 I’m currently learning how to use mysql, mongo
 - 💞️ I’m looking to collaborate on a big bot
-- 📫 How to reach me Discord: SilverGamez#6333
-
-<!---
-SilverGamez/SilverGamez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me Discord: Silver_3#6333
