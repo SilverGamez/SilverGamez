@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SilverGamez
-- 👀 I’m interested in coding, minecraft, helping small coders
-- 🌱 I’m currently learning how to use mysql, mongo
+- 👀 I’m interested in video games and coding
+- 🌱 I’m currently learning how to make a website for my Discord Bot
 - 💞️ I’m looking to collaborate on a big bot
 - 📫 How to reach me Discord: Silver_3#6333
