@@ -2,4 +2,4 @@
 - 👀 I’m interested in video games and coding
 - 🌱 I’m currently learning how to make a website for my Discord Bot
 - 💞️ I'm currently not looking to collaborate
-- 📫 How to reach me Discord: Silver.#6333
+- 📫 How to reach me Discord: .silver_3
